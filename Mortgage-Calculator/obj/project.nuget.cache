@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "43C1xynek8o=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\natas\\Documents\\Projects\\C#\\Mortgage-Calculator\\Mortgage-Calculator\\Mortgage-Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natas\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.12\\microsoft.aspnetcore.components.webassembly.server.8.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\natas\\Documents\\Projects\\C#\\Mortgage-Calculator\\Mortgage_Calculator.Client\\Mortgage_Calculator.Client.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\natas\\Documents\\Projects\\C#\\Mortgage-Calculator\\Mortgage_Calculator.Client\\Mortgage_Calculator.Client.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
